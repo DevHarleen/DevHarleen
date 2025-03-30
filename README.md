@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there, I'm Harleen! 👋
 
-<!--
-**DevHarleen/DevHarleen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About ME 🚀
 
-Here are some ideas to get you started:
+I'm currently transitioning from Tech support to Cloud computing, embarking on an exciting learning journey to explore cloud technologies and DevOps practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🌱 What I'm Learning
+- Currently learning Linux and Bash Phase 1 from the [LearnToCloud](https://learntocloud.guide/) guide
+
+
+#### 📊 GitHub Stats
+![Harleen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harleen&show_icons=true&theme=radical)
+
+
+#### 📫 Let's Connect!
+- 💼 [[LinkedIn](#)] (https://www.linkedin.com/in/harleen-k1/)
+
+
+
