@@ -13,7 +13,10 @@ I'm currently transitioning from Tech support to Cloud computing, embarking on a
 
 
 #### 📫 Let's Connect!
-- 💼 [[LinkedIn](#)] (https://www.linkedin.com/in/harleen-k1/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/harleen-k1/)
+
+<br>
+🚀 Let's build something amazing together!
 
 
 
