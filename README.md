@@ -18,7 +18,7 @@ I'm actively seeking ***IT Support*** related roles where I can continue to grow
 
 
 ### 📊 GitHub Stats
-![Harleen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harleen&show_icons=true&theme=radical)
+![Harleen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevHarleen&show_icons=true&theme=radical)
 
 
 ### 📫 Let's Connect!
