@@ -12,7 +12,8 @@ I'm actively seeking ***IT Support*** related roles where I can continue to grow
     - [Credential](https://www.credly.com/badges/3380166d-3387-4328-a8fc-0ccca20437b9/linked_in_profile)
   
 ### 👨‍💻 Projects
-- <b> IT Help Desk Ticket Creation - ServiceNow </b>
+- <b> Help Desk Ticketing Simulation</b> <br>
+**Summary**: A simple ticketing system built in ServiceNow to simulate issue tracking.
   -  [IT Help Desk Ticket Creation](https://github.com/DevHarleen/Help-Desk-Ticket-Creation-/tree/main)
 
 
