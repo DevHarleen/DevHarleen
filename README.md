@@ -10,6 +10,7 @@ I'm actively seeking ***IT Support*** related roles where I can continue to grow
 
 ### 👨‍💻 Projects
 - <b> IT Help Desk Ticket Creation - ServiceNow </b>
+  -  [IT Help Desk Ticket Creation](https://github.com/DevHarleen/Help-Desk-Ticket-Creation-/tree/main)
 
 
 ### 🌱 What I'm Learning
