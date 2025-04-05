@@ -7,7 +7,10 @@ I'm currently working as a ***Technical Support Advisor*** with hands-on experie
 ### 🔍 What I'm Looking For
 
 I'm actively seeking ***IT Support*** related roles where I can continue to grow, contribute to impactful support solutions, and be part of a collaborative tech-driven team. I’m passionate about improving user experiences and eager to take on challenges in dynamic IT environments.
-
+### 🧠 Certifications
+- COMPTIA A+
+    - [Credential](https://www.credly.com/badges/3380166d-3387-4328-a8fc-0ccca20437b9/linked_in_profile)
+  
 ### 👨‍💻 Projects
 - <b> IT Help Desk Ticket Creation - ServiceNow </b>
   -  [IT Help Desk Ticket Creation](https://github.com/DevHarleen/Help-Desk-Ticket-Creation-/tree/main)
